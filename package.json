@@ -1,0 +1,10 @@
+{
+	"private": true,
+	"module": "index.js",
+	"dependencies": {
+		"dcp-client": "^4.2.32"
+	},
+	"devDependencies": {
+		"bun-types": "latest"
+	}
+}
