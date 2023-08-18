@@ -1,0 +1,15 @@
+{
+	"name": "dcp-bun-app",
+	"private": true,
+	"type": "module",
+	"module": "index.ts",
+	"dependencies": {
+		"dcp-client": "^4.2.32"
+	},
+	"devDependencies": {
+		"bun-types": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	}
+}
