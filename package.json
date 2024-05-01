@@ -1,10 +1,9 @@
 {
-	"private": true,
-	"module": "index.js",
-	"dependencies": {
-		"dcp-client": "^4.3.1"
-	},
-	"devDependencies": {
-		"bun-types": "latest"
-	}
+  "private": true,
+  "dependencies": {
+    "dcp-client": "latest"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
 }
